@@ -1,0 +1,17 @@
+D:\Ammar\C#\Calculator VB\Calculator VB\bin\Debug\net6.0-windows\Calculator VB.exe
+D:\Ammar\C#\Calculator VB\Calculator VB\bin\Debug\net6.0-windows\Calculator VB.deps.json
+D:\Ammar\C#\Calculator VB\Calculator VB\bin\Debug\net6.0-windows\Calculator VB.runtimeconfig.json
+D:\Ammar\C#\Calculator VB\Calculator VB\bin\Debug\net6.0-windows\Calculator VB.dll
+D:\Ammar\C#\Calculator VB\Calculator VB\bin\Debug\net6.0-windows\Calculator VB.pdb
+D:\Ammar\C#\Calculator VB\Calculator VB\obj\Debug\net6.0-windows\Calculator VB.vbproj.AssemblyReference.cache
+D:\Ammar\C#\Calculator VB\Calculator VB\obj\Debug\net6.0-windows\Calculator_VB.Form1.resources
+D:\Ammar\C#\Calculator VB\Calculator VB\obj\Debug\net6.0-windows\Calculator VB.vbproj.GenerateResource.cache
+D:\Ammar\C#\Calculator VB\Calculator VB\obj\Debug\net6.0-windows\Calculator VB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ammar\C#\Calculator VB\Calculator VB\obj\Debug\net6.0-windows\Calculator VB.AssemblyInfoInputs.cache
+D:\Ammar\C#\Calculator VB\Calculator VB\obj\Debug\net6.0-windows\Calculator VB.AssemblyInfo.vb
+D:\Ammar\C#\Calculator VB\Calculator VB\obj\Debug\net6.0-windows\Calculator VB.vbproj.CoreCompileInputs.cache
+D:\Ammar\C#\Calculator VB\Calculator VB\obj\Debug\net6.0-windows\Calculator VB.dll
+D:\Ammar\C#\Calculator VB\Calculator VB\obj\Debug\net6.0-windows\refint\Calculator VB.dll
+D:\Ammar\C#\Calculator VB\Calculator VB\obj\Debug\net6.0-windows\Calculator VB.pdb
+D:\Ammar\C#\Calculator VB\Calculator VB\obj\Debug\net6.0-windows\Calculator VB.genruntimeconfig.cache
+D:\Ammar\C#\Calculator VB\Calculator VB\obj\Debug\net6.0-windows\ref\Calculator VB.dll
